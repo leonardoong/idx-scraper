@@ -1,0 +1,9 @@
+requests
+tenacity
+sqlalchemy
+# beautifulsoup4
+psycopg2
+pdfplumber
+python-dotenv
+# selenium
+# webdriver-manager

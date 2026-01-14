@@ -1,0 +1,22 @@
+# IDEA
+.idea/
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# PDF files
+files
+
+# pycache
+__pycache__/
