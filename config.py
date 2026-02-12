@@ -11,7 +11,7 @@ HEADERS = {
 }
 
 PAGE_SIZE = 10
-PDF_SAVE_PATH = "./data/pdfs"
+PDF_SAVE_PATH = "./files"
 
 # polling & timing
 POLL_INTERVAL = 3600  # 1 hour
